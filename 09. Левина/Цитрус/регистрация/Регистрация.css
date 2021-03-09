@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.ff {
+    padding-top:   100px;
+    padding-left:  300px;
+    padding-right: 300px;
+    padding-bottom:300px;
+    background-image: url(1471856262_369713-svetik.jpg);
+    color: #fff;
+    cursor: default;
+    -webkit-text-stroke-width: 0.4px;
+    -webkit-text-stroke-color: #000;
+    text-shadow: 0px 0px 2px #000;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.form-input {
+    padding-left:  58px;
+    padding-right: 58px;
+    text-align: center;
+}
+.form-input::placeholder {
+    color: rgb(68, 68, 68);
+    font-size: 14px;
+    font-family: Century Gothic;
+    text-align: center;
+  }
+.ff {
+    text-align: center
+}
+.yo h2{
+padding-top: 20px;
+    margin-top: 74px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.ox h2{
+padding-top: 20px;
+
+    padding-bottom: 10px;
+    text-align: center;   
+}
+.top h2{
+padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.rio {
+    margin-top: 99px;
+font-size: 20px;
+text-align: left;
+}
+.ri {
+    -webkit-text-stroke-width: 0px;
+    text-shadow: 0px 0px 0px;
+    color: rgb(107, 107, 107);
+background-image: url(DfJ4qK-WAAAczU4.jpg);
+padding-top:    40px;
+padding-bottom: 40px;
+    padding-left: 33px;
+    margin-right: 330px;
+    margin-top: 19px;
+font-size: 20px;
+text-align: left;
+border: 1px solid;
+    border-radius: 20px;
+    margin-bottom: 300px;
+}
+
+.img {
+    margin-top:  -190px;
+  animation: 30s linear 0s normal rot;
+  -webkit-animation: 30s linear 0s normal rot;
+}
+@keyframes rot {
+  0% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+.t a{
+ color: #fff;
+ -webkit-text-stroke-width: 0.4px;
+ -webkit-text-stroke-color: #000;
+ text-shadow: 0px 0px 2px #000;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+pointer-events: auto;
+}
+.t a {
+    text-decoration: none;
+    font-size: 24px;
+}

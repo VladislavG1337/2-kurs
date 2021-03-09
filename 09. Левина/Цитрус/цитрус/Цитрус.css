@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.цитрус{
+    height: 100%;
+    padding: 10px;
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.цитрус {
+    padding-bottom:98px;
+    padding-left:  98px;
+    padding-right: 98px;
+    padding-top:   98px;
+    background-image: url("11gdp.jpg");
+    height: 400px;
+}
+.цитрус{
+    border-bottom: 10px;
+    border-bottom-style:double;
+    border-bottom-color: #fff;
+}
+.цитрус h1{
+    font-family:Century Gothic;
+    font-size: 56px;
+    text-align: center;
+    background-color: #fff;
+    border: 10px;
+    border-style:double;
+    border-color: rgb(#000);
+}
+.цитрус p {
+    font-family:Impact;
+    font-size: 23px;
+    text-align: center;
+    background-color: #fff;
+}
+.ссылки{
+    height: 100%;
+    padding: 10px;
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ссылки {
+    padding-bottom:98px;
+    padding-left:  98px;
+    padding-right: 98px;
+    padding-top:   98px;
+        background-image: url(12gdp.jpg);
+        height: 666px;
+}
+.ссылки h3 {
+    word-spacing: 32px;
+    font-family:Century;
+    font-size: 32px;
+    background-color: #fff;
+}
+.ссылки ol {
+    padding-left:  32px;
+    padding-top:   32px;
+    text-shadow: 1px 1px 1px #000;
+        font-family:Century Gothic;
+        font-size: 23px;
+        color: #fff;
+}
+.ссылки p{
+    margin-top: -128px;
+    padding-top:   0px;
+    text-shadow: 0px 0px 6px #000;
+        margin-left: 719px;
+        outline: 5px double;
+        outline-color: #000000;
+        text-align: right;
+        font-family:Arial Black;
+        font-size: 32px;
+        color: #fff;
+}
+.переход {
+    margin-left: 810px;
+    margin-top: 120px;
+        width: 295px;
+        height: 32px;
+        background-color: #fff;
+font-family:Courier New;
+text-align: left;
+font-size: 20px;
+}
+.переход a{
+    color: #000;
+    text-decoration: none;
+}
