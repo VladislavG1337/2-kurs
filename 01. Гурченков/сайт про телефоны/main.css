@@ -1,0 +1,41 @@
+body{
+    background: chartreuse;
+}
+.naz{
+    background-color: red;
+}
+
+
+.display li{
+    margin-left: 2%;
+}
+
+.camera li{
+    margin-left: 2%;
+}
+
+.obshie  a:hover{
+    color:red;
+    width: auto;
+
+}
+
+.display a:hover{
+    color:cyan;
+}
+
+.kon a:hover{
+    color: darkorange;
+}
+
+.camera a:hover{
+    color: deeppink;
+}
+
+.pi a:hover{
+    color:indianred;
+}
+
+.summa h3{
+    margin-left: 5%;
+}
